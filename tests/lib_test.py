@@ -19,4 +19,4 @@ def test_clean_data():
     assert out.shape == (985, 119)
 
 def test_try_me():
-    assert try_me(text) == f"{text} sucks!"
+    assert try_me(str) == f"{str} sucks!"
