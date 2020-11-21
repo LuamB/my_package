@@ -12,5 +12,5 @@ setup(name='my_package',
       test_suite = 'tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/my_package-run'],
+      scripts=['scripts/my-package-run'],
       zip_safe=False)
