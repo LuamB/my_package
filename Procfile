@@ -1,1 +1,1 @@
-web: pip install . -U && my_package-run
+web: pip install . -U && my-package-run
