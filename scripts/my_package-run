@@ -8,7 +8,7 @@ import pandas as pd
 
 # Import from my_package
 import my_package
-from my_package.lib import clean_data
+from my_package.lib import clean_data, try_me
 
 if __name__ == '__main__':
     usage = '%(prog)s'
